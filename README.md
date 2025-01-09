@@ -1,1 +1,1 @@
-# go-basic-structure
+# YOUR-REPO-NAME
